@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://shooter-bubble.github.io/sitemap.xml
